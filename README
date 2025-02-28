@@ -1,0 +1,6 @@
+Welcome to IPArchive! We are an IPA archive collection full of preserved Apple history. :)
+To start IPArchive, first connect you device to your pc.
+Next, download the zip file.
+Next, Open a terminal and run "cd iparchive/iparchive-store && python3 -m http.server 8000". install python3 if havent.
+Next, share the zip file to your device.
+Then, run the index.html file. Enjoy! :)
